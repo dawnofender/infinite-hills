@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: polar detail disk Udon C# Program Asset
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: cb0baa06d6923c64aa6575287f8a17fa,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: cbc621da39bb8e24f906ccfb877d2793, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 49e480bd09277e14bbd2fe9d33a2733e, type: 3}

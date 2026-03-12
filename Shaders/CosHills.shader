@@ -1,5 +1,5 @@
 
-Shader "dawnofender/PolarLODTerrain"
+Shader "dawnofender/CosineHills"
 {
     Properties
     {

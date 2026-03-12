@@ -3,7 +3,12 @@ guid: 27671ece47c40a4488e46d6f16b4a4b1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hills.003
+    second: {fileID: 2100000, guid: 9d789d2bd1eea9b44980cc3ae7b9a19a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

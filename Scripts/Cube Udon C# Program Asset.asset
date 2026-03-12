@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Cube Udon C# Program Asset
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: bfde72fb166244d468550f6792b59a4e,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: fc6418eb13d2d9ed2b45b00ecbc2293b, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: aa4a806819567344197c6e1f8311ddc4, type: 3}
